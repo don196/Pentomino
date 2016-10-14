@@ -1,0 +1,55 @@
+C:\Курсовая\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+C:\Users\don19\Desktop\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+C:\Users\don19\Desktop\Pentomino\Pentomino\bin\Debug\Pentomino.exe
+C:\Users\don19\Desktop\Pentomino\Pentomino\bin\Debug\Pentomino.pdb
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.csprojResolveAssemblyReference.cache
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.Properties.Resources.resources
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.csproj.GenerateResource.Cache
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+C:\Users\don19\Desktop\Pentomino\Pentomino\obj\Debug\Pentomino.Form1.resources
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\bin\Debug\Pentomino.exe.config
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.exe
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.pdb
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\bin\Debug\Pentomino.exe
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\bin\Debug\Pentomino.pdb
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.Form1.resources
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.Properties.Resources.resources
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino (1)\Pentomino\obj\Debug\Pentomino.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+\\vmware-host\Shared Folders\Рабочий стол\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+D:\#Tray\Pentomino-2016-05-24\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+D:\#Tray\Pentomino-2016-05-24\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+D:\#Tray\Pentomino-2016-05-24\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+F:\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+F:\Pentomino\Pentomino\bin\Debug\Pentomino.exe
+F:\Pentomino\Pentomino\bin\Debug\Pentomino.pdb
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.csprojResolveAssemblyReference.cache
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.Properties.Resources.resources
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.csproj.GenerateResource.Cache
+F:\Pentomino\Pentomino\obj\Debug\Pentomino.MainForm.resources
+I:\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+I:\Pentomino\Pentomino\bin\Debug\Pentomino.exe
+I:\Pentomino\Pentomino\bin\Debug\Pentomino.pdb
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.csprojResolveAssemblyReference.cache
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.MainForm.resources
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.Properties.Resources.resources
+I:\Pentomino\Pentomino\obj\Debug\Pentomino.csproj.GenerateResource.Cache
+I:\Программа\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
+I:\Программа\Pentomino\Pentomino\bin\Debug\Pentomino.exe
+I:\Программа\Pentomino\Pentomino\bin\Debug\Pentomino.pdb
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.csprojResolveAssemblyReference.cache
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.MainForm.resources
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.Properties.Resources.resources
+I:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.csproj.GenerateResource.Cache
+G:\Программа\Pentomino\Pentomino\bin\Debug\Pentomino.exe.config
+G:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.exe
+G:\Программа\Pentomino\Pentomino\obj\Debug\Pentomino.pdb
